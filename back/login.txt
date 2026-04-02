@@ -1,2 +1,11 @@
-username1:password1/
-username2:password2/
+// symbols [ : ] = seperator. [ / ] = name finish
+// 1:2:3/
+// 1 = username
+// 2 = password 
+// 3 = discord ID
+// "/" = new name seperator
+
+username1:password1:321/
+username2:password2:123/
+
+glyphaj:admin:1132649415409156226/
